@@ -1,1 +1,0 @@
-# inClass02Inheritance
