@@ -25,7 +25,7 @@ class Student(Person): #Inheritance#
 
 
 student_1 = Student('Jeff', 'Bitch', 1945, 'Memeology')
-
+#print statements
 print(student_1.first)
 print(student_1.last)
 print(student_1.DOB)
